@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Faculty Feedback Form</title>
+</head>
+<body>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="practical3.css">
+</head>
+<body>
+
+
+</body>
+</html>
+
+<h2>Faculty Feedback Form</h2>
+
+<form action="submit_feedback.php" method="post">
+    <label for="studentName">Student Name:</label>
+    <input type="text" id="studentName" name="studentName" required>
+
+    <label for="studentRollNo">Student Roll No.:</label>
+    <input type="text" id="studentRollNo" name="studentRollNo" required>
+
+    <label for="facultyName">Faculty Name:</label>
+    <input type="text" id="facultyName" name="facultyName" required>
+
+    <label for="selectSubject">Select Subject:</label>
+    <select id="selectSubject" name="selectSubject" required>
+        <option value="subject1">Subject 1</option>
+        <option value="subject2">Subject 2</option>
+    </select>
+
+    <label for="rating">Rating:</label>
+    <input type="number" id="rating" name="rating" min="1" max="5" required>
+
+    <label for="suggestions">Suggestions:</label>
+    <textarea id="suggestions" name="suggestions" rows="4" cols="50"></textarea>
+
+    <input type="submit" value="Submit">
+</form>
+
+</body>
+</html>
+	
+	
