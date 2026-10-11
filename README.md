@@ -10,7 +10,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nishit24113&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Nishit's GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishit24113&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Nishit24113&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <p align="center">
